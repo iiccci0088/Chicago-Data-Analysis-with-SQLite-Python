@@ -1,4 +1,4 @@
-
+##Chicago Data Analysis with SQLite & Python##
 📌 Overview
 This project is a graded assignment focused on exploring, processing, and analyzing three real-world datasets from the City of Chicago Data Portal. Using Python, Pandas, and SQLite, we load, clean, and query the datasets to extract insights related to socioeconomic indicators, public school performance, and crime statistics.
 
